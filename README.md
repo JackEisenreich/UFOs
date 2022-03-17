@@ -12,7 +12,9 @@ People can use this webpage in a variety of ways. They can see ufo sightings by 
 
 ![Filter_Criteria](https://user-images.githubusercontent.com/95661553/158095395-7a3f83ba-4134-4a80-8a6f-2131b08b1043.png)
 
-The webpage then automatically changes once the change happens, so you get instant results.
+The webpage then automatically changes once the change happens, so you get instant results. After changing entering a filter you can see the results right there on the page.
+
+![1-13results](https://user-images.githubusercontent.com/95661553/158717755-7dac118e-1d19-416f-8e2a-dfa9915a2f64.png)
 
 
 **Summary**
