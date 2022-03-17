@@ -37,7 +37,7 @@ function updateFilters() {
   console.log(elementValue);
 
   // 4c. Save the id of the filter that was changed as a variable.
-  let filterID = changedElement.toLocaleString("id");
+  let filterID = changedElement.attr("id");
   console.log(filterID);
 
 
